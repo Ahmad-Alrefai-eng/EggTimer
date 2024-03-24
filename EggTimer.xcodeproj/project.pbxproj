@@ -16,6 +16,7 @@
 		3E1236F32BA5E184006F9D0C /* EggTimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E1236F22BA5E184006F9D0C /* EggTimerTests.swift */; };
 		3E1236FD2BA5E184006F9D0C /* EggTimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E1236FC2BA5E184006F9D0C /* EggTimerUITests.swift */; };
 		3E1236FF2BA5E184006F9D0C /* EggTimerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E1236FE2BA5E184006F9D0C /* EggTimerUITestsLaunchTests.swift */; };
+		3EAF8C642BAFED6100C1E622 /* https___www.tones7.com_media_extreme_clock_alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3EAF8C632BAFED6100C1E622 /* https___www.tones7.com_media_extreme_clock_alarm.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3E1236F82BA5E184006F9D0C /* EggTimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EggTimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E1236FC2BA5E184006F9D0C /* EggTimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EggTimerUITests.swift; sourceTree = "<group>"; };
 		3E1236FE2BA5E184006F9D0C /* EggTimerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EggTimerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3EAF8C632BAFED6100C1E622 /* https___www.tones7.com_media_extreme_clock_alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "https___www.tones7.com_media_extreme_clock_alarm.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		3E1236DA2BA5E182006F9D0C /* EggTimer */ = {
 			isa = PBXGroup;
 			children = (
+				3EAF8C632BAFED6100C1E622 /* https___www.tones7.com_media_extreme_clock_alarm.mp3 */,
 				3E1236DB2BA5E182006F9D0C /* AppDelegate.swift */,
 				3E1236DD2BA5E182006F9D0C /* SceneDelegate.swift */,
 				3E1236DF2BA5E182006F9D0C /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3E1236E82BA5E184006F9D0C /* LaunchScreen.storyboard in Resources */,
+				3EAF8C642BAFED6100C1E622 /* https___www.tones7.com_media_extreme_clock_alarm.mp3 in Resources */,
 				3E1236E52BA5E184006F9D0C /* Assets.xcassets in Resources */,
 				3E1236E32BA5E182006F9D0C /* Main.storyboard in Resources */,
 			);
